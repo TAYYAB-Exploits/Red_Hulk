@@ -1,11 +1,8 @@
-
-![RedHulk Banner](https://via.placeholder.com/800x200.png?text=RedHulk+Banner)
-
 ---
 
-# RedHulk - Android PIN Bruteforce Tool
-
 ![RedHulk Banner](https://via.placeholder.com/800x200.png?text=RedHulk+Banner)
+
+# **RedHulk - Android PIN Bruteforce Tool**
 
 **RedHulk** is an educational penetration testing tool designed to demonstrate Android lockscreen vulnerabilities by brute-forcing the device's PIN via USB (ADB). Built for researchers, students, and ethical hackers to learn Android device security.
 
@@ -13,31 +10,30 @@
 
 ---
 
-## Features
-- [x] Bruteforce Android lockscreen PIN via ADB
-- [x] Automatic detection of connected Android devices
-- [x] Smart delay handling to bypass lockout timer
-- [x] Logging of attempts and success detection
+## **Features**
+- [x] Bruteforce Android lockscreen PIN via ADB  
+- [x] Automatic detection of connected Android devices  
+- [x] Smart delay handling to bypass lockout timer  
+- [x] Logging of attempts and success detection  
 - [x] Works on most Android versions (USB Debugging must be enabled)
 
 ---
 
-## Demo
+## **Demo**
 ![RedHulk Demo](https://via.placeholder.com/800x400.png?text=RedHulk+in+Action)
 
 ---
 
-## Installation & Usage
+## **Installation & Usage**
 
-### Step 1: Install Termux (If not already installed)
-
+**Step 1: Install Termux (If not already installed)**  
 ```bash
-pkg update && pkg upgrade
+pkg update && pkg upgrade  
 pkg install git python
 
 Step 2: Clone the repository
 
-git clone https://github.com/TAYYAB-Exploits/Red_Hulk
+git clone https://github.com/TAYYAB-Exploits/Red_Hulk  
 cd Red_Hulk
 
 Step 3: Run the tool
@@ -72,12 +68,9 @@ Disclaimer
 
 Author
 
-Developed by Tayyab Exploits
-
+Developed by: Tayyab Exploits
 YouTube: Tayyab Exploits
-
 GitHub: @TAYYAB-Exploits
-
 
 
 ---
