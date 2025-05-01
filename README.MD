@@ -38,7 +38,7 @@ cd Red_Hulk
 
 Step 3: Run the tool
 
-python Red_Hulk.py
+python Red_Hulk.py```
 
 
 ---
