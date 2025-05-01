@@ -19,7 +19,7 @@ RedHulk is an educational penetration testing tool designed to demonstrate Andro
 
 ## Demo
 
-*Screenshot/video placeholder*
+*Coming Soon*
 
 ---
 
