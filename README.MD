@@ -1,4 +1,4 @@
-```markdown
+
 # RedHulk - Android PIN Bruteforce Tool
 
 RedHulk is an educational penetration testing tool designed to demonstrate Android lockscreen vulnerabilities by brute-forcing the device's PIN via USB (ADB). Built for researchers, students, and ethical hackers to learn Android device security.
@@ -80,11 +80,10 @@ Contributions are welcome!
 ## License
 
 This project is licensed under the **MIT License**.  
-```
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-```
+
 
 ---
 
 *Always use responsibly. Knowledge is power, but ethics give it purpose.*
-```
