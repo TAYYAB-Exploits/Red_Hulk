@@ -1,46 +1,37 @@
 
 ![RedHulk Banner](https://via.placeholder.com/800x200.png?text=RedHulk+Banner)
 
-RedHulk - Android PIN Bruteforce Tool
+---
 
+# RedHulk - Android PIN Bruteforce Tool
 
+![RedHulk Banner](https://via.placeholder.com/800x200.png?text=RedHulk+Banner)
 
-RedHulk is an educational penetration testing tool designed to demonstrate Android lockscreen vulnerabilities by brute-forcing the device's PIN via USB (ADB). Built for researchers, students, and ethical hackers to learn Android device security.
+**RedHulk** is an educational penetration testing tool designed to demonstrate Android lockscreen vulnerabilities by brute-forcing the device's PIN via USB (ADB). Built for researchers, students, and ethical hackers to learn Android device security.
 
-> Note: This tool is for educational purposes only. Unauthorized use is strictly prohibited.
-
-
-
+> **Note:** This tool is for **educational purposes only**. Unauthorized use is strictly prohibited.
 
 ---
 
-Features
-
-[x] Bruteforce Android lockscreen PIN via ADB
-
-[x] Automatic detection of connected Android devices
-
-[x] Smart delay handling to bypass lockout timer
-
-[x] Logging of attempts and success detection
-
-[x] Works on most Android versions (USB Debugging must be enabled)
-
-
+## Features
+- [x] Bruteforce Android lockscreen PIN via ADB
+- [x] Automatic detection of connected Android devices
+- [x] Smart delay handling to bypass lockout timer
+- [x] Logging of attempts and success detection
+- [x] Works on most Android versions (USB Debugging must be enabled)
 
 ---
 
-Demo
-
-
-
+## Demo
+![RedHulk Demo](https://via.placeholder.com/800x400.png?text=RedHulk+in+Action)
 
 ---
 
-Installation & Usage
+## Installation & Usage
 
-Step 1: Install Termux (If not already installed)
+### Step 1: Install Termux (If not already installed)
 
+```bash
 pkg update && pkg upgrade
 pkg install git python
 
@@ -101,6 +92,5 @@ Want to improve RedHulk? Pull requests are welcome! Create an issue to discuss c
 License
 
 This project is licensed under the MIT License. Feel free to fork, modify, and share with credits.
-
 
 ---
