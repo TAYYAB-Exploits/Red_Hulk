@@ -8,5 +8,6 @@ A educational tool for demonstrating Android security concepts via USB connectio
 
 1. Clone repository:
 ```bash
-git clone https://github.com/YourUsername/RedHulk.git
+git clone https://github.com/TAYYAB-Exploits/Red_Hulk
 cd RedHulk
+python Red_Hulk.py
