@@ -5,8 +5,8 @@
 A educational tool for demonstrating Android security concepts via USB connection.
 
 ## Installation
-
-1. Clone repository:
+1. Termux Commands: @TayyabExploits
+2. Clone repository:
 ```bash
 git clone https://github.com/TAYYAB-Exploits/Red_Hulk
 cd RedHulk
