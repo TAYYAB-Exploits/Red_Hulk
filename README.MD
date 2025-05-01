@@ -42,3 +42,49 @@ Step 3: Run the tool
 python Red_Hulk.py
 
 
+
+
+---
+
+Requirements
+
+Android device with USB Debugging enabled
+
+ADB drivers (Termux supports ADB via USB or with a PC)
+
+Python 3.x
+
+USB OTG Cable (for physical device connection)
+
+
+
+---
+
+Disclaimer
+
+This tool is meant strictly for educational and research purposes. Misuse of RedHulk can result in legal consequences. Always obtain permission before testing any device.
+
+
+---
+
+Author
+
+Developed by: Tayyab Exploits
+YouTube: Tayyab Exploits
+GitHub: @TAYYAB-Exploits
+
+
+---
+
+Contributing
+
+Want to improve RedHulk? Pull requests are welcome! Create an issue to discuss changes or features.
+
+
+---
+
+License
+
+This project is licensed under the MIT License. Feel free to fork, modify, and share with credits.
+
+---
